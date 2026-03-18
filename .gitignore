@@ -1,0 +1,18 @@
+# 환경변수 (API 키 포함)
+.env
+
+# 수집 데이터 (용량 큰 자막/분석 파일)
+data/transcripts/
+data/analyses/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE
+.idea/
+.vscode/
+
+# macOS
+.DS_Store
